@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Pranav Jamaadagni	QE		@pranavj2009
 
 # THANKS
 
